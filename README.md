@@ -1,4 +1,1 @@
-pi72
-====
-
-payinvoice
+Language Pack for Joomla-3.x
